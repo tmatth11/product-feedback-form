@@ -5,7 +5,7 @@
 
 This repository contains the code for a front-end product feedback form. The form is built using React + Vite and is styled using Bootstrap. It is responsive and can be used on both desktop and mobile devices.
 
-To run the project, clone the repository and run the following commands:
+To run the project, clone the repository and run the following command:
 
 ```bash
 npm run dev
